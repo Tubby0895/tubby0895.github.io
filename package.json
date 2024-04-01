@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.21",
+    "@element-plus/icons-vue": "^2.3.1",
+    "axios": "^0.20.0",
+    "element-plus": "^2.6.0",
+    "jquery": "^3.6.0",
+    "localforage": "^1.10.0",
+    "yarn": "^1.22.22"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.1"
+  }
+}
