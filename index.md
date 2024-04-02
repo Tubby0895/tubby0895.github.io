@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: Download Now
-      link: /markdown-examples
+      link: /zip/v_d_chrome_v2.0.3.zip1
     - theme: alt
       text: How to install
       link: /#how-to-install-chrome-extensions

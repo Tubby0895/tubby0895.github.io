@@ -10,15 +10,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'How to Use', link: '/markdown-examples' }
+      { text: 'How to Use', link: '/how-to-use/download-youtube-videos' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'How to use',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Download Youtube video', link: '/how-to-use/download-youtube-videos' },
         ]
       }
     ],
