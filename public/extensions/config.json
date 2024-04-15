@@ -1,6 +1,6 @@
 {
-  "newVersion": "1.0.0",
-  "updateContent": "",
+  "newVersion": "1.0.1",
+  "updateContent": "Fix download exception issue",
   "downloadUrl": "https://tubby0895.github.io/",
   "disabledVersion": "0.0.0"
 }
