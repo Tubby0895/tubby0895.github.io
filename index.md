@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: Download Now
-      link: /zip/v_d_v1.0.0.zip
+      link: /zip/v_d_v1.0.1.zip
     - theme: alt
       text: How to install
       link: /#how-to-install-chrome-extensions
